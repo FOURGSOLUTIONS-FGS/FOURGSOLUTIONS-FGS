@@ -23,15 +23,47 @@ plataformas web, sistemas a medida, automatización e inteligencia artificial ap
 
 <br/>
 
-## ⟡ Qué hacemos
+## ⟡ Lo que construimos para su empresa
 
-| | |
-|---|---|
-| **Desarrollo de software** | Aplicaciones web y plataformas SaaS a medida, con foco en experiencia y rendimiento. |
-| **Sistemas & automatización** | Dashboards, integraciones, flujos automatizados y backends que sostienen la operación. |
-| **Forensia digital** | Análisis e investigación forense de redes y sistemas. Recuperación, evidencia y respuesta. |
-| **Facturación electrónica** | Soluciones de facturación electrónica DIAN listas para producción. |
-| **IA aplicada** | Generación de contenido, voz y automatización inteligente integradas al producto. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Plataformas & Apps
+Sitios, sistemas y aplicaciones a medida, diseñados para convertir.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Automatizaciones IA
+n8n, Python, APIs e integraciones que eliminan el trabajo manual.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🔗 Integraciones & Bots
+WhatsApp, CRMs, ERPs y cualquier sistema que necesite hablar con otro.
+
+</td>
+<td valign="top">
+
+### 🎨 Identidad Digital
+Branding, diseño UI/UX y presencia online que comunica valor real.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> ### 🎯 Prospección B2B Automatizada &nbsp; ![NUEVO](https://img.shields.io/badge/NUEVO-b8923f?style=flat-square&labelColor=0b0906)
+>
+> Identificamos empresas que necesitan lo que usted vende y le entregamos los datos de cada una: **nombre, email y número de contacto** — listos para cerrar. **50 prospectos calificados por día**, sin que mueva un dedo.
+>
+> ![50 leads/día](https://img.shields.io/badge/50-LEADS%2FD%C3%8DA-0b0906?style=for-the-badge&labelColor=b8923f) &nbsp; ![+8 fuentes](https://img.shields.io/badge/%2B8-FUENTES-0b0906?style=for-the-badge&labelColor=b8923f) &nbsp; ![24h primer resultado](https://img.shields.io/badge/24h-PRIMER_RESULTADO-0b0906?style=for-the-badge&labelColor=b8923f)
+
 
 <br/>
 
