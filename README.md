@@ -61,11 +61,12 @@ plataformas web, sistemas a medida, automatización e inteligencia artificial ap
 
 | Proyecto | Qué es | |
 |---|---|---|
-| **Refrendia** | Facturación electrónica DIAN | [app.refrendia.fourgsolutions.com](https://app.refrendia.fourgsolutions.com) |
-| **Centinela** | Plataforma de seguridad y monitoreo | [centinela.fourgsolutions.com](https://centinela.fourgsolutions.com) |
-| **Indubienes** | Plataforma inmobiliaria | — |
-| **TraceOps** | Sistema de logística y trazabilidad | — |
-| **FinFlow AI** | Finanzas con IA para LATAM | — |
+| **Plethora** | Consultoría en ciberseguridad | [plethora-consulting.com](https://plethora-consulting.com) |
+| **Refrendia** | Facturación electrónica DIAN | [refrendia.fourgsolutions.com](https://refrendia.fourgsolutions.com) |
+| **Majeztia** | E-commerce de moda | [majeztia.com](https://majeztia.com) |
+| **Turnkey** | E-commerce — Turnkey Clothing | [turnkeyclothing.com](https://turnkeyclothing.com) |
+| **Indubienes** | Plataforma inmobiliaria | [indubienes.com](https://indubienes.com) |
+
 
 <br/>
 
